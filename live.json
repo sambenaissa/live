@@ -48,7 +48,7 @@
 
 "alaqsa" :"https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8",
 
-"alarabya" :"http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/AlArabiya/live",
+"alarabya" :"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667616179/ei/U3llY8bHE-qYg8UPx6iByAk/ip/185.22.154.19/id/UDNO9R7C4oQ.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAO2cAxyaRtNAzAkQ_KLRSeL-rMDnlUOyAj4wxYHjuBDYAiADEzi7jdhEVgkFW82CcLDUHdM-tY2Y6NuZNgw-jpspNA%3D%3D/file/index.m3u8",
 
 "Iqra" :"https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8",
 
