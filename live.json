@@ -1,8 +1,10 @@
 {
 "euro_news_german" : "https://euronews.alteox.app/hls/de_stream.m3u8",
-"euro_news_france" : "
-https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
-",
 
+"euro_news_frane" : "https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8",
+
+"abc_news" : "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+  
+"rt_esp" : "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
 
 }
