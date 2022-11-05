@@ -13,7 +13,7 @@
 
 "central_tv" : "http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8",
 
-"mtv_france" : "http://190.2.155.162:8080/mtvfrance/mpegts.m3u8",
+"mtv_france" : "http://190.2.155.162:8080/mtvfrance/mpegts",
 
 "canal" : "https://d2ve4fchffi4n1.cloudfront.net/out/v1/df356edd16f3434ab417f2c48cb1d516/index.m3u8",
 
