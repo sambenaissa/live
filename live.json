@@ -7,7 +7,7 @@
   
 "rt_esp" : "https://rt-esp.rttv.com/live/rtesp/playlist.m3u8",
 
-"aljazeera_english" : "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live.m3u8",
+"aljazeera_english" : "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1667658479/ei/jh5mY9X3L8Cg3LUPn5qw-AE/ip/83.138.55.36/id/F-POY4Q0QSI.2/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgM6NkEsC_eYGL1j3EcL7zvHkEXcxbovuicYe4wPqsGD8CIQDOTscAH1YLDhJNVlob873NeqtH9EBha67pxDKEkemmKQ%3D%3D/file/index.m3u8",
 
 "style_france" : "https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8",
 
