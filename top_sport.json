@@ -1,14 +1,14 @@
 {
-    "top1_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top1_aljazeeraarabic.jpg?token=GHSAT0AAAAAAB2Y5ETZRTAISVOXBKQCXOMEY3H43SQ",
+    "top1_img" : "https://raw.githubusercontent.com/sambenaissa/live/main/img/top/top1_aljazeeraarabic.jpg",
     "top1_link" : "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
 
-    "top2_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top2_abcnews.png?token=GHSAT0AAAAAAB2Y5ETYVSWCHVWWY4WW6Z5UY3H44OA",
+    "top2_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top2_abcnews.png",
     "top2_link" : "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
 
-    "top3_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top3_bbcnews.jpg?token=GHSAT0AAAAAAB2Y5ETZWRROAXOCHWYTAQHCY3H445Q",
+    "top3_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top3_bbcnews.jpg",
     "top3_link" : "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
 
-    "top4_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top4_ksasports.png?token=GHSAT0AAAAAAB2Y5ETY4EGT325RYQAI6XVKY3H45OQ",
+    "top4_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top4_ksasports.png",
     "top4_link" : "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports1",
 
     "top5_img" : "",
