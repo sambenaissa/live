@@ -9,7 +9,7 @@
     "top3_link" : "https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
 
     "top4_img" : "https://raw.githubusercontent.com/sambenaissa/live/229d87dff75a53c5513b6896d85d3c6966f3a09a/img/top/top4_ksasports.png",
-    "top4_link" : "http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/ksa-sports1",
+    "top4_link" : "https://cllive.itworkscdn.net/ksasports1live/token=nva=1667835890~dirs=1~hash=0a327ca2ac7d28a25bd50/ksasports1.smil/playlist.m3u8",
 
     "top5_img" : "https://raw.githubusercontent.com/sambenaissa/live/main/img/top/fubo_logo.jpg",
     "top5_link" : "https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8",
