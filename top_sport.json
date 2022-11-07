@@ -34,11 +34,14 @@
     "top10_img" : "",
     "top10_link" : "",
 
-   "spo1_img":"",
-    "spo1_link":"",
+   "spo1_img":"https://i.imgur.com/feg6Rmn.jpeg",
+    "spo1_link":"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8",
     
-    "spo2img":"",
-    "spo2_link":""
+    "spo2_img":"https://i.imgur.com/C6uPXzv.jpeg",
+    "spo2_link":"https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8",
+    
+    "spo3_img":"https://i.imgur.com/S05pzdd.jpeg",
+    "spo3_link":"https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8"
 
 
 
