@@ -1,4 +1,8 @@
 {
+    "latest":"1.2",
+    "code":"2",
+    
+    
     "top1_img" : "https://raw.githubusercontent.com/sambenaissa/live/main/img/top/top1_aljazeeraarabic.jpg",
     "top1_link" : "https://live-hls-web-ajm.getaj.net/AJM/index.m3u8",
 
