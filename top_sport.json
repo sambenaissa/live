@@ -34,10 +34,14 @@
     "top10_img" : "",
     "top10_link" : "",
 
-    "team1":"TEAM1",
-    "team2":"TEAM2",
-    "time1":"18:00",
-    "game1_stream":"https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
+   "spo1_img":"",
+    "spo1_link":"",
+    
+    "spo2img":"";
+    "spo2_link":""
+
+
+
 
   
 
