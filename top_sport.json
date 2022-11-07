@@ -29,38 +29,12 @@
     "top10_img" : "",
     "top10_link" : "",
 
- 
+    "team1":"TEAM1",
+    "team2":"TEAM2",
+    "time1":"18:00",
+    "game1_stream":"https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
 
-    "sport1_img" : "",
-    "sport1_link" : "",
-
-    "sport2_img" : "",
-    "sport2_link" : "",
-
-    "sport3_img" : "",
-    "sport3_link" : "",
-
-    "sport4_img" : "",
-    "sport4_link" : "",
-
-    "sport5_img" : "",
-    "sport5_link" : "",
-
-    "sport6_img" : "",
-    "sport6_link" : "",
-
-    "sport7_img" : "",
-    "sport7_link" : "",
-
-    "sport8_img" : "",
-    "sport8_link" : "",
-
-    "sport9_img" : "",
-    "sport9_link" : "",
-
-    "sport10_img" : "",
-    "sport10_link" : ""
-
+  
 
 
 }
